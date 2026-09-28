@@ -7,6 +7,6 @@
 #####                                                     Håkan Grahn, Dept. of Computer Science, BTH
 
 
-#### "ARDIS: A Swedish Historical Handwritten Digit Dataset", Neural Computing and Applications, Springer, 2019.
+#### Citation: Kusetogullari, H., Yavariabdi, A., Cheddad, A. et al. ARDIS: a Swedish historical handwritten digit dataset. Neural Comput & Applic 32, 16505–16518 (2020). https://doi.org/10.1007/s00521-019-04163-3
 
 https://ardisdataset.github.io/ARDIS/
